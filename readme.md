@@ -1,2 +1,2 @@
 # Posts
-A website deployed using laravel,Blade, javascript and java.
+A website deployed using Laravel, Blade, HTML, CSS, and Javascript.
