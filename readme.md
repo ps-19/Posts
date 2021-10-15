@@ -1,5 +1,6 @@
 # Posts
-A website deployed using Laravel, Blade, HTML, CSS, Javascript, JSON.
+
+Simpler Version of complete Blogger.com website. A complete CRUD application with authentication has been deployed using laravel framework of PHP.
 
 ![Screenshot 2021-06-26 at 08-54-45 2 H Digital](https://user-images.githubusercontent.com/63330165/123500517-3e91a600-d65c-11eb-8145-4442d9ca1903.png)
 ![Screenshot 2021-06-12 at 03-23-45 2 H Digital](https://user-images.githubusercontent.com/63330165/121752490-defcac00-cb2d-11eb-8fee-4d630fd5b860.png)
